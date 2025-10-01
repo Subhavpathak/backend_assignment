@@ -34,8 +34,6 @@ It demonstrates a **secure, scalable REST API** with authentication, role-based 
 ---
 
 
----
-
 ## ⚙️ Setup Instructions
 
 ### Backend
