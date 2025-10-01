@@ -75,6 +75,8 @@ CRUD operations
 
 Display API success/error messages
 
+---
+
 ### 🔒 Security & Scalability
 
 JWT tokens securely handled
