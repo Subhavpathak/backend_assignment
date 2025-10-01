@@ -49,3 +49,39 @@ cp .env.example .env   # configure API URL
 npm install
 npm start
 
+### 🔑 Features Implemented
+
+User Registration & Login (JWT authentication)
+
+Role-based access (User/Admin)
+
+CRUD APIs for tasks
+
+Password hashing with bcrypt
+
+API versioning /api/v1
+
+Error handling & input validation
+
+Swagger API documentation
+
+React UI with:
+
+Registration & Login
+
+JWT-protected dashboard
+
+CRUD operations
+
+Display API success/error messages
+
+### 🔒 Security & Scalability
+
+JWT tokens securely handled
+
+Input validation & sanitization
+
+Modular project structure for scaling future modules
+
+Ready for caching (Redis) or containerized deployment (Docker)
+
